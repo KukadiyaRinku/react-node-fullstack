@@ -14,7 +14,7 @@ export default function User({ user }) {
                     </p>
                 </div>
                 <div className='footer'>
-                    <div>Welcome {user.name}</div>
+                    <div>Wellcome {user.name}</div>
                     {/* <Button color="warning">Update</Button>{' '}
                     <Button color="danger">Delete</Button> */}
                 </div>

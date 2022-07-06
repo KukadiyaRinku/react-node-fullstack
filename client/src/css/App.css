@@ -19,7 +19,7 @@ body {
   width: 500px;
   height: auto;
   padding: 20px;
-  border: 5px solid dodgerblue;
+  border: 5px solid rgb(19, 203, 228);
   border-radius: 5px;
 }
 
@@ -44,7 +44,7 @@ body {
 
 .formContainer button:hover {
   cursor: pointer;
-  background-color: dodgerblue;
+  background-color: rgb(19, 203, 228);
 }
 
 span {
